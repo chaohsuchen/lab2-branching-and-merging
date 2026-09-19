@@ -1,6 +1,6 @@
 # Lab 2: Branching and Merging
 
-Hi Victor! The main topic of this first lab activity is branching and merging in git.
+Hi BA2200! The main topic of this first lab activity is branching and merging in git.
 
 ## Resources and Acknowledgements
 
