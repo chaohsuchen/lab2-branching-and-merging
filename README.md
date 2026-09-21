@@ -111,7 +111,7 @@ You'll notice that your repository already has two branches called `alice` and `
 
 - [X] Once the merge is complete, delete the `bob` branch.
 
-- [ ] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
+- [X] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
 
 Now, you are almost ready to share your recipe with the remote! 
 

@@ -60,6 +60,6 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 
 12. Cover the top and sides of the cake with frosting.
 
-13. Decorate the cake with fresh raspberries.
+13. Decorate the cake with fresh raspberries, chocolate chips and whip cream.
 
 14. Add a dusting of powdered sugar just before serving.
