@@ -13,26 +13,26 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 - 1 cup milk
 - 1/2 cup vegetable oil
 - 2 teaspoons vanilla extract
-- [CAKE FLAVOUR]
-- [SPECIAL CAKE INGREDIENT]
+- Chocolate
+- Coffee
 
 ## Filling
 
-- [FILLING]
-- [FILLING EXTRAS]
+- Chocolate cream
+- Fudge
 
 ## Frosting
 
 - 1 cup unsalted butter, softened
 - 4 cups powdered sugar
 - 2 teaspoons vanilla extract
-- [FROSTING FLAVOUR]
-- [FROSTING EXTRAS]
+- Chocolate
+- Icing
 
 ## Decoration
 
-- [DECORATION]
-- [FINISHING TOUCH]
+- Chocolate bar
+- Chocolate ribbon
 
 ## Instructions
 
